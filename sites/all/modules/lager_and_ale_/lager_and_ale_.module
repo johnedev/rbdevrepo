@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Lager and Ale  feature.
+ */
+
+include_once 'lager_and_ale_.features.inc';
